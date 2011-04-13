@@ -1,6 +1,6 @@
 # seijure
 
-This is a quickstart project that gets you off running Compojure and JSON.
+A quickstart Clojure/Compojure project with pre-installed JSON capabilities.
 
 ## Usage
 

@@ -1,5 +1,5 @@
 (defproject seijure "1.0.0-SNAPSHOT"
-  :description "FIXME: write description"
+  :description "Seijure is a quickstart Clojure/Compojure project with pre-installed JSON capabilities"
   :dependencies [[org.clojure/clojure "1.2.1"]
                  ;[org.clojure/clojure-contrib "1.2.1"]
                  [compojure "0.6.2"]
